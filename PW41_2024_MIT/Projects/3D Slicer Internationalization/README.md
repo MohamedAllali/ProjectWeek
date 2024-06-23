@@ -14,6 +14,10 @@ key_investigators:
 - name: Mamadou Samba Camara
   affiliation: Cheikh Anta Diop University
   country: Senegal
+  
+- name: Mohamed Alalli Bilal
+  affiliation: Nouakchoutt Al-Asriya University
+  country: Mauritanie
 ---
 
 # Project Description
