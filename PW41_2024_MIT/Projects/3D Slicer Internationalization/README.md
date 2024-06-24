@@ -30,6 +30,10 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics
   country: USA
+
+- name: Mohamed Alalli Bilal 
+  affiliation: Nouakchott Al-Asriya University
+  country: Mauritanie
   
 ---
 
